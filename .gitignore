@@ -2,3 +2,7 @@
 Library
 UserSettings
 ProjectSettings
+.vs
+obj
+Temp
+Logs
