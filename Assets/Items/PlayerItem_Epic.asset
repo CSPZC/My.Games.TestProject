@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: PlayerItem_Epic
   m_EditorClassIdentifier: 
   Type: Epic
-  Price: -100
+  Price: 1

@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 867c3d5da093be24499ee8de9dc2b9a4, type: 3}
   m_Name: PlayerItem_Legendry
   m_EditorClassIdentifier: 
-  Type: Lehendary
-  Price: 500000
+  Type: Legendary
+  Price: 1000
